@@ -1,1 +1,1 @@
-Welcome to the repository showcasing the projects completed during my Master's fiest my year in Visual Computing at the University of Science and Technology Houari Boumediene (USTHB) in Algiers, Algeria.
+##Welcome to the repository showcasing the projects completed during my Master's fiest my year in Visual Computing at the University of Science and Technology Houari Boumediene (USTHB) in Algiers, Algeria.
